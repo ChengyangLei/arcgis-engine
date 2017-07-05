@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Sample\bin\Debug\Sample.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Sample\bin\Debug\Sample.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Sample\obj\x86\Debug\Sample.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Sample\obj\x86\Debug\Sample.pdb
+C:\Documents and Settings\Administrator\桌面\cccc\Sample\Sample\obj\x86\Debug\Sample.exe
+C:\Documents and Settings\Administrator\桌面\cccc\Sample\Sample\obj\x86\Debug\Sample.pdb

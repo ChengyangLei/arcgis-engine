@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6EF5B2AB-D8EE-4801-9C6A-D8DA2848A84C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>lesson7</RootNamespace>
+    <AssemblyName>lesson7</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ESRI.ArcGIS.3DAnalyst, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.AxControls, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.Carto, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.Controls, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.Display, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.Geodatabase, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL" />
+    <Reference Include="ESRI.ArcGIS.Geometry, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.GlobeCore, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.Output, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.System, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="ESRI.ArcGIS.SystemUI, Version=9.3.0.1770, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

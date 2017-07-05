@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\lesson3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\lesson3\obj\x86\Release\lesson3.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\lesson3\obj\x86\Release\lesson3.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\lesson3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\lesson3\obj\x86\Release\GenerateResource.write.1.tlog
+E:\ArcGis Engine实验课内容\第三节课\cjcjcjjcjcjcjcjcjjcjcj3\lesson3\lesson3\obj\x86\Release\lesson3.csprojResolveAssemblyReference.cache
+E:\ArcGis Engine实验课内容\第三节课\cjcjcjjcjcjcjcjcjjcjcj3\lesson3\lesson3\obj\x86\Release\lesson3.Form1.resources
+E:\ArcGis Engine实验课内容\第三节课\cjcjcjjcjcjcjcjcjjcjcj3\lesson3\lesson3\obj\x86\Release\lesson3.Properties.Resources.resources
+E:\ArcGis Engine实验课内容\第三节课\cjcjcjjcjcjcjcjcjjcjcj3\lesson3\lesson3\obj\x86\Release\lesson3.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\bin\Debug\example.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\bin\Debug\example.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\obj\x86\Debug\example.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\obj\x86\Debug\example.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\obj\x86\Debug\example.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\example\obj\x86\Debug\example.pdb
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Debug\example.exe
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Debug\example.pdb
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\bin\Debug\example.exe
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\bin\Debug\example.pdb
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Debug\example.Form1.resources
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Debug\example.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\实习二常\cccc\example\example\obj\x86\Debug\example.exe
+C:\Documents and Settings\Administrator\桌面\实习二常\cccc\example\example\obj\x86\Debug\example.pdb

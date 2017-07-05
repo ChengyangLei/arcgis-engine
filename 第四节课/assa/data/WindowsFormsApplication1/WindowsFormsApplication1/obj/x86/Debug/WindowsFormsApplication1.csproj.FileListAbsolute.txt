@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\data\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\data\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ArcGis Engine实验课内容\第四节课\assa\data\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ArcGis Engine实验课内容\第四节课\assa\data\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

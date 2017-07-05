@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MyGis", "MyGis\MyGis.vdproj", "{1395860A-6F5D-4A26-BAE9-1FA2B3AF0494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1395860A-6F5D-4A26-BAE9-1FA2B3AF0494}.Debug|Default.ActiveCfg = Debug
+		{1395860A-6F5D-4A26-BAE9-1FA2B3AF0494}.Debug|Default.Build.0 = Debug
+		{1395860A-6F5D-4A26-BAE9-1FA2B3AF0494}.Release|Default.ActiveCfg = Release
+		{1395860A-6F5D-4A26-BAE9-1FA2B3AF0494}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\obj\x86\Debug\MyGis.csprojResolveAssemblyReference.cache
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\obj\x86\Debug\MyGis实习二.Form1.resources
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\obj\x86\Debug\MyGis实习二.Form2.resources
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\obj\x86\Debug\MyGis实习二.Properties.Resources.resources
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\obj\x86\Debug\MyGis.csproj.GenerateResource.Cache
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\obj\x86\Debug\MyGis实习二.exe
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\bin\Debug\MyGis实习二.exe.config
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\bin\Debug\MyGis实习二.exe
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\bin\Debug\MyGis实习二.pdb
+E:\ArcGis Engine实验课内容\第二节课\实验2程序\MyGis实习二\MyGis实习二\obj\x86\Debug\MyGis实习二.pdb

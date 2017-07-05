@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "防洪灾害系统", "防洪灾害系统\防洪灾害系统.vdproj", "{C4284A21-E4C0-45C5-95BC-E411A3900D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4284A21-E4C0-45C5-95BC-E411A3900D2C}.Debug|Default.ActiveCfg = Debug
+		{C4284A21-E4C0-45C5-95BC-E411A3900D2C}.Debug|Default.Build.0 = Debug
+		{C4284A21-E4C0-45C5-95BC-E411A3900D2C}.Release|Default.ActiveCfg = Release
+		{C4284A21-E4C0-45C5-95BC-E411A3900D2C}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

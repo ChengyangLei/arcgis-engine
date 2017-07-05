@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\桌面\文件接收柜\第一讲\ArcGIS Engine01\lesson7\lesson7\obj\Debug\lesson7.exe
+C:\Documents and Settings\Administrator\桌面\文件接收柜\第一讲\ArcGIS Engine01\lesson7\lesson7\obj\Debug\lesson7.pdb
+C:\Documents and Settings\Administrator\桌面\文件接收柜\第一讲\ArcGIS Engine01\lesson7\lesson7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\文件接收柜\第一讲\ArcGIS Engine01\lesson7\lesson7\obj\Debug\lesson7.Form1.resources
+C:\Documents and Settings\Administrator\桌面\文件接收柜\第一讲\ArcGIS Engine01\lesson7\lesson7\obj\Debug\lesson7.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\文件接收柜\第一讲\ArcGIS Engine01\lesson7\lesson7\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\文件接收柜\第一讲\ArcGIS Engine01\lesson7\lesson7\obj\Debug\GenerateResource-ResGen.write.1.tlog

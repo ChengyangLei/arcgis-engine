@@ -1,0 +1,8 @@
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\obj\Debug\lesson7.exe
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\obj\Debug\lesson7.pdb
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\bin\Debug\lesson7.exe
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\bin\Debug\lesson7.pdb
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\obj\Debug\ResolveAssemblyReference.cache
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\obj\Debug\lesson7.Form1.resources
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\obj\Debug\lesson7.Properties.Resources.resources
+D:\vs2005\第二章\sample\lesson7\lesson7\lesson7\obj\Debug\lesson7.csproj.GenerateResource.Cache

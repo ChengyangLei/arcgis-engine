@@ -1,0 +1,8 @@
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ArcGis Engine实验课内容\第六节课\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

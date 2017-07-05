@@ -1,0 +1,13 @@
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\bin\Debug\登录系统.exe
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\bin\Debug\登录系统.pdb
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.Form1.resources
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.Properties.Resources.resources
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.csproj.GenerateResource.Cache
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.exe
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.pdb
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.csprojResolveAssemblyReference.cache
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.Form3.resources
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.MainForm.resources
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.BufferForm.resources
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\obj\x86\Debug\登录系统.form.OverlayForm.resources
+E:\ArcGis Engine实验课内容\第一节课\登录系统\登录系统\bin\Debug\IrisSkin4.dll

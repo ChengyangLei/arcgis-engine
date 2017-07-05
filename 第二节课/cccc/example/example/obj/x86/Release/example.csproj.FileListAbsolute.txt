@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Release\example.Form1.resources
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Release\example.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\bin\Release\example.exe
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\bin\Release\example.pdb
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Release\example.exe
+C:\Documents and Settings\Administrator\桌面\cccc\example\example\obj\x86\Release\example.pdb

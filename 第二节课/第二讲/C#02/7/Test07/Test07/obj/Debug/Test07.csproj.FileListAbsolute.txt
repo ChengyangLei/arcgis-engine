@@ -1,0 +1,25 @@
+E:\2009年的工作任务\C# 文档\c#从入门到精通\C# 从入门到精通（改版）\mr\TM\sl\3\7\Test07\Test07\bin\Debug\Test07.exe
+E:\2009年的工作任务\C# 文档\c#从入门到精通\C# 从入门到精通（改版）\mr\TM\sl\3\7\Test07\Test07\bin\Debug\Test07.pdb
+E:\2009年的工作任务\C# 文档\c#从入门到精通\C# 从入门到精通（改版）\mr\TM\sl\3\7\Test07\Test07\obj\Debug\ResolveAssemblyReference.cache
+E:\2009年的工作任务\C# 文档\c#从入门到精通\C# 从入门到精通（改版）\mr\TM\sl\3\7\Test07\Test07\obj\Debug\Test07.exe
+E:\2009年的工作任务\C# 文档\c#从入门到精通\C# 从入门到精通（改版）\mr\TM\sl\3\7\Test07\Test07\obj\Debug\Test07.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\c#从入门到精第二版\sl\3\7\Test07\Test07\obj\Debug\Test07.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\c#从入门到精第二版\sl\3\7\Test07\Test07\obj\Debug\Test07.pdb
+E:\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\obj\Debug\Test07.exe
+E:\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\obj\Debug\Test07.pdb
+E:\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\bin\Debug\Test07.exe.config
+F:\图书文档\C#从入门到精通3\C#从入门到精通（第3版）\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\bin\Debug\Test07.exe.config
+F:\图书文档\C#从入门到精通3\C#从入门到精通（第3版）\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\obj\Debug\Test07.exe
+F:\图书文档\C#从入门到精通3\C#从入门到精通（第3版）\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\obj\Debug\Test07.pdb
+F:\图书文档\C#从入门到精通3\C#从入门到精通（第3版）\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\bin\Debug\Test07.exe
+F:\图书文档\C#从入门到精通3\C#从入门到精通（第3版）\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\bin\Debug\Test07.pdb
+F:\图书文档\C#从入门到精通3\C#从入门到精通（第3版）\C#从入门到精通（第3版）\sl\3\7\Test07\Test07\obj\Debug\ResolveAssemblyReference.cache
+F:\lq2016\第二讲\C#02\7\Test07\Test07\bin\Debug\Test07.exe.config
+F:\lq2016\第二讲\C#02\7\Test07\Test07\obj\Debug\Test07.exe
+F:\lq2016\第二讲\C#02\7\Test07\Test07\obj\Debug\Test07.pdb
+F:\lq2016\第二讲\C#02\7\Test07\Test07\bin\Debug\Test07.exe
+F:\lq2016\第二讲\C#02\7\Test07\Test07\bin\Debug\Test07.pdb
+F:\lq2016\第二讲\C#02\7\Test07\Test07\obj\Debug\ResolveAssemblyReference.cache
+E:\ArcGis Engine实验课内容\第二节课\第二讲\C#02\7\Test07\Test07\bin\Debug\Test07.exe.config
+E:\ArcGis Engine实验课内容\第二节课\第二讲\C#02\7\Test07\Test07\obj\Debug\Test07.exe
+E:\ArcGis Engine实验课内容\第二节课\第二讲\C#02\7\Test07\Test07\obj\Debug\Test07.pdb

@@ -1,0 +1,37 @@
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\bin\Debug\MyGis.exe
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\bin\Debug\MyGis.pdb
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.Form1.resources
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.Properties.Resources.resources
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.csproj.GenerateResource.Cache
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.exe
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.pdb
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.form1.Form2.resources
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.csprojResolveAssemblyReference.cache
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.form1.Form3.resources
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.form1.FormAtrribute.resources
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.exe
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.pdb
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\bin\Debug\MyGis.exe
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\bin\Debug\MyGis.pdb
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.Form1.resources
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.form1.Form2.resources
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.form1.Form3.resources
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.form1.FormAtrribute.resources
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.Properties.Resources.resources
+C:\Users\Dell\Desktop\常杰\第五节课\MyGis\obj\x86\Debug\MyGis.csproj.GenerateResource.Cache
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.form1.BufferForm.resources
+E:\学习资料\AE开发学习程序文件\MyGis\MyGis\obj\x86\Debug\MyGis.form1.OverlayForm.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.exe
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.pdb
+E:\ArcGis Engine实验课内容\MyGis\MyGis\bin\Debug\MyGis.exe
+E:\ArcGis Engine实验课内容\MyGis\MyGis\bin\Debug\MyGis.pdb
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.csprojResolveAssemblyReference.cache
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.form1.BufferForm.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.Form1.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.form1.Form2.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.form1.Form3.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.form1.FormAtrribute.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.form1.OverlayForm.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.Properties.Resources.resources
+E:\ArcGis Engine实验课内容\MyGis\MyGis\obj\x86\Debug\MyGis.csproj.GenerateResource.Cache
